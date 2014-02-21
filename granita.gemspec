@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["adam.fabicki@gmail.com"]
   spec.description   = %q{A library for importing ActiveRecord objects from CSV}
   spec.summary       = %q{Granita is an interface for concisely loading ActiveRecord objects from CSV files.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/dr-impossible/granita"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
